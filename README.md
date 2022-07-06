@@ -48,7 +48,7 @@
 
 <td align="center" width="20%">
 <span><b><center>Jest</center></b></span> 
-<img height=65px src=https://img.icons8.com/external-tal-revivo-color-tal-revivo/344/external-jest-can-collect-code-coverage-information-from-entire-projects-logo-color-tal-revivo.png"> 
+<img height=65px src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/344/external-jest-can-collect-code-coverage-information-from-entire-projects-logo-color-tal-revivo.png"> 
 </td>
 
  ![Jeferson Gomes GitHub stats](https://github-readme-stats.vercel.app/api?username=jefersongjr&show_icons=true&theme=tokyonight)
