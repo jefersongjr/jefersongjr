@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hello World...! 👋
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/jefersongjr/)
+[<img src='https://img.icons8.com/ios-filled/344/instagram-new--v1.png' alt='instagram' height='30'>](https://www.instagram.com/jeferson_gjr/)
 
 ## Tech Stack :computer:
 
