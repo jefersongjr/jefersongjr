@@ -36,7 +36,7 @@
 
 <td align="center" width="20%">
 <span><b><center>TaillWindCss</center></b></span> 
-<img height=65px src="https://img.icons8.com/color/344/tailwindcss.png)"> 
+<img height=65px src="https://img.icons8.com/color/344/tailwindcss.png"> 
 </td>
 </tr>
 
