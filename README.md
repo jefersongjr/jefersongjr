@@ -7,25 +7,27 @@
 <tbody>
  <tr>
 <td align="center" width="20%">
-<span><b><center>ReactJS</center></b></span> 
-<img height=60px src="https://img.icons8.com/ultraviolet/2x/react.png"> 
-</td>
-
-<td align="center" width="20%">
 <span><b><center>HTML 5</center></b></span> 
 <img height=60px src="https://img.icons8.com/color/344/html-5--v1.png"> 
 </td>
-
+  
 <td align="center" width="20%">
-<span><b><center>NodeJS</center></b></span> 
-<img height=60px src="https://img.icons8.com/color/2x/nodejs.png"> 
+<span><b><center>CSS</center></b></span> 
+<img height=60px src="https://img.icons8.com/color/344/css3.png"> 
 </td>
 </tr>
+  
+<td align="center" width="20%">
+<span><b><center>JavaScript</center></b></span> 
+<img height=60px src="https://img.icons8.com/color/344/javascript.png"> 
+</td>
+
+
 
 <tr>
 <td align="center" width="20%">
-<span><b><center>MATLAB</center></b></span> 
-<img height=65px src="https://img.icons8.com/nolan/2x/matlab.png"> 
+<span><b><center>ReactJS</center></b></span> 
+<img height=60px src="https://img.icons8.com/ultraviolet/2x/react.png"> 
 </td>
 
 <td align="center" width="20%">
