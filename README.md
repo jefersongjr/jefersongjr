@@ -18,7 +18,7 @@
 </tr>
   
 <td align="center" width="20%">
-<span><b><center>JavaScript</center></b></span> 
+<span><b><center>JS</center></b></span> 
 <img height=60px src="https://img.icons8.com/color/344/javascript.png"> 
 </td>
 
