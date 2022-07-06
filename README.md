@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<!--
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -12,4 +10,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+[![Jeferson Gomes GitHub stats](https://github-readme-stats.vercel.app/api?username=jefersongjr)](https://github.com/jefersongjr/github-readme-stats)
