@@ -119,8 +119,22 @@
  
 </table>
  <br>
-  
+ 
+ ## GitHub Statistics :bar_chart:
 ![Jeferson Gomes GitHub stats](https://github-readme-stats.vercel.app/api?username=jefersongjr&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jefersongjr&show_icons=true&theme=tokyonight)](https://github.com/jefersongjr/github-readme-stats)
 
-
+ ## Main Projects 💻
+ 
+ <table>
+ <tr>
+ <td align="center" width="40%">
+  <h2 align="center"><a href="https://github.com/jefersongjr/pixels-art">Pixels Art</a></h2>
+  <a href="https://pixels-art-eosin.vercel.app/"><img src='https://github.com/jefersongjr/pixels-art/blob/main/preview.png' /></a>
+ </td>   
+ <td align="center" width="40%">
+   <h2 align="center"><a href="https://github.com/jefersongjr/color-guess">Color Guess</a></h2>
+  <a href="https://color-guess-zeta.vercel.app/"><img src='https://github.com/jefersongjr/color-guess/blob/main/preview.png' /></a>
+  </td>
+ </tr>
+</table>
