@@ -1,5 +1,4 @@
-### Hello World...! 👋
-
+## Hello World...! 👋
 Meu nome é Jeferson , sou Estudante de Sistemas de Informação pela Faculdade Estácio de Sá e Estudante de Desenvolvimento Full Stack pela Trybe!
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/jefersongjr/)
@@ -12,60 +11,103 @@ Meu nome é Jeferson , sou Estudante de Sistemas de Informação pela Faculdade 
 <tbody>
  <tr>
 <td align="center" width="20%">
-<span><b><center>HTML 5</center></b></span> 
+<p><b><center>HTML 5</center></b></p> 
 <img height=60px src="https://img.icons8.com/color/344/html-5--v1.png"> 
 </td>
   
 <td align="center" width="20%">
-<span><b><center>CSS</center></b></span> 
+<p><b><center>CSS</center></b></p> 
 <img height=60px src="https://img.icons8.com/color/344/css3.png"> 
 </td>
 
   <td align="center" width="20%">
-<span><b><center>JavaScript</center></b></span> 
+<p><b><center>JavaScript</center></b></p> 
 <img height=60px src="https://img.icons8.com/color/344/javascript.png"> 
 </td>
   
   <td align="center" width="20%">
-<span><b><center>Bash</center></b></span>
+<p><b><center>Bash</center></b></p>
 <img height=65px src="https://img.icons8.com/bubbles/2x/console.png">
+</td>
+  
+   <td align="center" width="20%">
+<p><b><center>Jest</center></b></p> 
+<img height=65px src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/344/external-jest-can-collect-code-coverage-information-from-entire-projects-logo-color-tal-revivo.png"> 
+</td>
+<td align="center" width="20%">
+<p><b><center>Testing Library</center></b></p> 
+<img height=60px src="https://testing-library.com/img/octopus-128x128.png"> 
 </td>
 
 </tr>
  
 <tr>
-
-
 <td align="center" width="20%">
-<span><b><center>Git</center></b></span> 
+<p><b><center>Git</center></b></p> 
 <img height=65px src="https://img.icons8.com/ios-glyphs/2x/github-2.png"> 
 </td>
+ 
+<td align="center" width="20%">
+<p><b><center>ReactJS</center></b></p> 
+<img height=60px src="https://img.icons8.com/ultraviolet/2x/react.png"> 
+</td>
 
 <td align="center" width="20%">
-<span><b><center>TaillWindCss</center></b></span> 
+<p><b><center>TaillWindCss</center></b></p> 
 <img height=65px src="https://img.icons8.com/color/344/tailwindcss.png"> 
 </td>
-</tr>
-
-<tr>
+  
 <td align="center" width="20%">
-<span><b><center>ReactJS</center></b></span> 
-<img height=60px src="https://img.icons8.com/ultraviolet/2x/react.png"> 
-
-</td>
-
-<td align="center" width="20%">
-<span><b><center>Jest</center></b></span> 
-<img height=65px src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/344/external-jest-can-collect-code-coverage-information-from-entire-projects-logo-color-tal-revivo.png"> 
+<p><b><center>Redux</center></b></p> 
+<img height=65px src="https://img.icons8.com/color/512/redux.png"> 
 </td>
  
  <td align="center" width="20%">
-<span><b><center>Jest</center></b></span> 
-<img height=65px src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/344/external-jest-can-collect-code-coverage-information-from-entire-projects-logo-color-tal-revivo.png"> 
+<p><b><center>Docker</center></b></p> 
+<img height=65px src="https://img.icons8.com/fluency/512/docker.png"> 
 </td>
  
-</table>
+  
+<td align="center" width="20%">
+<p><b><center>Chai</center></b></p> 
+<img height=60px src="https://camo.githubusercontent.com/7ecbd4531436e4f20c1dba52a4fd4ac367cfcc20a2f62cfe7a10f32da306afc6/687474703a2f2f636861696a732e636f6d2f696d672f636861692d6c6f676f2e706e67"> 
+</td>
+</tr>
  
+<tr>
+<td align="center" width="20%">
+<p><b><center>Express.Js</center></b></p> 
+<img height=65px src="https://www.pngfind.com/pngs/m/136-1363736_express-js-icon-png-transparent-png.png"> 
+</td>
+ 
+<td align="center" width="20%">
+<p><b><center>Node.Js</center></b></p> 
+<img height=60px src="https://img.icons8.com/fluency/512/node-js.png"> 
+</td>
+
+<td align="center" width="20%">
+<p><b><center>NPM</center></b></p> 
+<img height=65px src="https://img.icons8.com/color/512/npm.png"> 
+</td>
+  
+<td align="center" width="20%">
+<p><b><center>Sequelize</center></b></p> 
+<img height=65px src="https://cdn.icon-icons.com/icons2/2415/PNG/512/sequelize_original_logo_icon_146348.png"> 
+</td>
+ 
+ <td align="center" width="20%">
+<p><b><center>TypeScript</center></b></p> 
+<img height=70px src="https://img.icons8.com/fluency/512/typescript.png"> 
+</td>
+ 
+ <td align="center" width="20%">
+<p><b><center>Mocha</center></b></p> 
+<img height=65px src="https://seeklogo.com/images/M/mocha-logo-66DA231220-seeklogo.com.png"> 
+</td>
+</tr>
+ 
+</table>
+ <br>
   
 ![Jeferson Gomes GitHub stats](https://github-readme-stats.vercel.app/api?username=jefersongjr&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jefersongjr&show_icons=true&theme=tokyonight)](https://github.com/jefersongjr/github-readme-stats)
