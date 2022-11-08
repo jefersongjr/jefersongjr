@@ -25,14 +25,16 @@ Meu nome é Jeferson , sou Estudante de Sistemas de Informação pela Faculdade 
 <span><b><center>JavaScript</center></b></span> 
 <img height=60px src="https://img.icons8.com/color/344/javascript.png"> 
 </td>
+  
+  <td align="center" width="20%">
+<span><b><center>Bash</center></b></span>
+<img height=65px src="https://img.icons8.com/bubbles/2x/console.png">
+</td>
 
 </tr>
  
 <tr>
-<td align="center" width="20%">
-<span><b><center>ReactJS</center></b></span> 
-<img height=60px src="https://img.icons8.com/ultraviolet/2x/react.png"> 
-</td>
+
 
 <td align="center" width="20%">
 <span><b><center>Git</center></b></span> 
@@ -47,11 +49,17 @@ Meu nome é Jeferson , sou Estudante de Sistemas de Informação pela Faculdade 
 
 <tr>
 <td align="center" width="20%">
-<span><b><center>Bash</center></b></span> 
-<img height=65px src="https://img.icons8.com/bubbles/2x/console.png"> 
+<span><b><center>ReactJS</center></b></span> 
+<img height=60px src="https://img.icons8.com/ultraviolet/2x/react.png"> 
+
 </td>
 
 <td align="center" width="20%">
+<span><b><center>Jest</center></b></span> 
+<img height=65px src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/344/external-jest-can-collect-code-coverage-information-from-entire-projects-logo-color-tal-revivo.png"> 
+</td>
+ 
+ <td align="center" width="20%">
 <span><b><center>Jest</center></b></span> 
 <img height=65px src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/344/external-jest-can-collect-code-coverage-information-from-entire-projects-logo-color-tal-revivo.png"> 
 </td>
