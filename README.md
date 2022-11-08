@@ -57,4 +57,9 @@ Meu nome é Jeferson , sou Estudante de Sistemas de Informação pela Faculdade 
 </td>
  
 </table>
+ 
+  
+![Jeferson Gomes GitHub stats](https://github-readme-stats.vercel.app/api?username=jefersongjr&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jefersongjr&show_icons=true&theme=tokyonight)](https://github.com/jefersongjr/github-readme-stats)
+
 
