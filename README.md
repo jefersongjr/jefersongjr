@@ -1,8 +1,20 @@
 ## Hello World...! 👋
-Meu nome é Jeferson , sou Estudante de Sistemas de Informação pela Faculdade Estácio de Sá e Estudante de Desenvolvimento Full Stack pela Trybe!
+
+* 🌎 - Nascido e Criado no Rio de Janeiro
+* 🖥️ - Estudante de Desenvolvimento FullStack na Trybe
+* 📖 - Estudante de Sistemas De Informação na Faculdade Estácio de Sá
+* 🏃 - Extremamente apaixonado por corridas e rua.
+
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/jefersongjr/)
 [<img src='https://img.icons8.com/ios-filled/344/instagram-new--v1.png' alt='instagram' height='30'>](https://www.instagram.com/jeferson_gjr/)
+
+
+## Sobre mim: 
+ Tenho 31 anos e recentemente estou passando por uma transição de carreira .
+ Sempre gostei muito de tecnologia e tive o meu primeiro contato com a programação no período que fazia faculdade de licenciatura de Matemática e logo descobri que estava fazendo o curso errado.<br>
+ Iniciei assim uma nova faculdade de Sistemas de Informação e ingressei na Trybe para conquistar o conhecimento necessário para embarcar em uma  carreira de tecnologia. <br>
+ 
 
 ## Tech Stack :computer:
 
