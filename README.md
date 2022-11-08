@@ -12,8 +12,7 @@
 
 ## Sobre mim: 
  Tenho 31 anos e recentemente estou passando por uma transição de carreira .
- Sempre gostei muito de tecnologia e tive o meu primeiro contato com a programação no período que fazia faculdade de licenciatura de Matemática e logo descobri que estava fazendo o curso errado.<br>
- Iniciei assim uma nova faculdade de Sistemas de Informação e ingressei na Trybe para conquistar o conhecimento necessário para embarcar em uma  carreira de tecnologia. <br>
+ Sempre gostei muito de tecnologia e tive o meu primeiro contato com a programação no período que fazia faculdade de licenciatura de Matemática, o que aumentou ainda mais minha paixão pela área tecnólogica , por isso resolvi mudar para o curso de Sistemas de Informação e ingressei na Trybe para conquistar o conhecimento necessário para embarcar em uma  carreira de tecnologia. <br>
  
 
 ## Tech Stack :computer:
