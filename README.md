@@ -143,9 +143,9 @@
   <h2 align="center"><a href="https://github.com/jefersongjr/todo-list">ToDo List</a></h2>
   <a href="https://todo-list-azure-kappa.vercel.app/"><img src='https://github.com/jefersongjr/todo-list/blob/main/previa.png' /></a>
  </td>   
-<!--  <td align="center" width="40%">
-   <h2 align="center"><a href="">Color Guess</a></h2>
-  <a href="https://color-guess-zeta.vercel.app/"><img src='https://github.com/jefersongjr/color-guess/blob/main/preview.png' /></a>
-  </td> -->
+  <td align="center" width="40%">
+   <h2 align="center"><a href="https://github.com/jefersongjr/trybewarts">TrybeWarts</a></h2>
+  <a href="https://trybewarts-indol.vercel.app/"><img src='https://github.com/jefersongjr/trybewarts/blob/main/images/previa.png' /></a>
+  </td> 
  </tr>
 </table>
