@@ -146,7 +146,7 @@
   <td align="center" width="40%">
    <h2 align="center"><a href="https://github.com/jefersongjr/trybewarts">TrybeWarts</a></h2>
   <a href="https://trybewarts-indol.vercel.app/">
-   <img heigth="248px" src='https://github.com/jefersongjr/trybewarts/blob/main/images/previa.png' /></a>
+   <img heigth="230px" src='https://github.com/jefersongjr/trybewarts/blob/main/images/previa.png' /></a>
   </td> 
  </tr>
 </table>
