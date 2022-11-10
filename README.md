@@ -149,4 +149,18 @@
    <img height="238px" src='https://github.com/jefersongjr/trybewarts/blob/main/images/previa.png' /></a>
   </td> 
  </tr>
+ 
+ <tr>
+ <td align="center" width="40%">
+   <h2 align="center"><a href="https://github.com/jefersongjr/solar-system">TrybeWarts</a></h2>
+  <a href="https://solar-system-ruby.vercel.app/">
+   <img height="238px" src='https://github.com/jefersongjr/solar-system/blob/main/public/previa.png' /></a>
+  </td> 
+<!--   <td align="center" width="40%">
+   <h2 align="center"><a href="https://github.com/jefersongjr/solar-system">TrybeWarts</a></h2>
+  <a href="https://solar-system-ruby.vercel.app/">
+   <img height="238px" src='https://github.com/jefersongjr/solar-system/blob/main/public/previa.png' /></a>
+  </td>  -->
+ </tr>
+ 
 </table>
