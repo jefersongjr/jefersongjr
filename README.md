@@ -175,7 +175,7 @@
    <br>
   <hr>
   <p><i><b> :wrench: Ferramentas:</b> React, HTML5, CSS3, JavaScriptES6+</i></p>
-  <p></i><b> 📑 Resumo:</b> Site com informações sobre missões espaciais </i></p>
+  <p></i><b> 📑 Resumo:</b> Site com informações sobre missões espaciais e planetas do Sistema Solar </i></p>
   </td> 
    <td align="center" width="40%">
    <h2 align="center"><a href="https://github.com/jefersongjr/trivia-game">Trivia Game</a></h2>
