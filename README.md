@@ -131,10 +131,19 @@
  <td align="center" width="40%">
   <h2 align="center"><a href="https://github.com/jefersongjr/pixels-art">Pixels Art</a></h2>
   <a href="https://pixels-art-eosin.vercel.app/"><img src='https://github.com/jefersongjr/pixels-art/blob/main/preview.png' /></a>
- </td>   
+  <br>
+  <hr>
+  <p><i><b> :wrench: Ferramentas:</b> HTML5, CSS3, JavaScriptES6+<i></p>
+  <p><i><b> 📑 Resumo:</b> Quadro digital para pintura de pixels.</i></p>
+ </td> 
+   
  <td align="center" width="40%">
    <h2 align="center"><a href="https://github.com/jefersongjr/color-guess">Color Guess</a></h2>
   <a href="https://color-guess-zeta.vercel.app/"><img src='https://github.com/jefersongjr/color-guess/blob/main/preview.png' /></a>
+  <br>
+  <hr>
+  <p><i><b> :wrench: Ferramentas:</b> HTML5, CSS3, JavaScriptES6+</i></p>
+  <p><i><b> 📑 Resumo:</b> Jogo de advinhar a cor correta.</i></p>
   </td>
  </tr>
  
@@ -142,11 +151,19 @@
  <td align="center" width="40%">
   <h2 align="center"><a href="https://github.com/jefersongjr/todo-list">ToDo List</a></h2>
   <a href="https://todo-list-azure-kappa.vercel.app/"><img src='https://github.com/jefersongjr/todo-list/blob/main/previa.png' /></a>
+  <br>
+  <hr>
+  <p><i><b> :wrench: Ferramentas:</b> HTML5, CSS3, JavaScriptES6+</i></p>
+  <p></i><b> 📑 Resumo:</b> Lista de tarefas simples.</i></p>
  </td>   
   <td align="center" width="40%">
-   <h2 align="center"><a href="https://github.com/jefersongjr/trybewarts">TrybeWarts</a></h2>
+   <h2 align="center"><a href="https://github.com/jefersongjr/trybewarts">TrybeWarts :mage: </a></h2>
   <a href="https://trybewarts-indol.vercel.app/">
    <img height="238px" src='https://github.com/jefersongjr/trybewarts/blob/main/images/previa.png' /></a>
+  <br>
+  <hr>
+  <p><i><b> :wrench: Ferramentas:</b> HTML5, CSS3, JavaScriptES6+</i></p>
+  <p></i><b> 📑 Resumo:</b> Formulário de avaliação para curso de programação </i></p>
   </td> 
  </tr>
  
@@ -155,11 +172,19 @@
    <h2 align="center"><a href="https://github.com/jefersongjr/solar-system">Solar System</a></h2>
   <a href="https://solar-system-ruby.vercel.app/">
    <img height="238px" src='https://github.com/jefersongjr/solar-system/blob/main/public/previa.png' /></a>
+   <br>
+  <hr>
+  <p><i><b> :wrench: Ferramentas:</b> React, HTML5, CSS3, JavaScriptES6+</i></p>
+  <p></i><b> 📑 Resumo:</b> Site com informações sobre missões espaciais </i></p>
   </td> 
    <td align="center" width="40%">
    <h2 align="center"><a href="https://github.com/jefersongjr/trivia-game">Trivia Game</a></h2>
   <a href="https://trivia-game-xi.vercel.app/">
    <img height="238px" src='https://github.com/jefersongjr/trivia-game/blob/main/public/previa.png' /></a>
+  <br>
+  <hr>
+  <p><i><b> :wrench: Ferramentas:</b> React, Redux, React Router, HTML5, CSS3, JavaScriptES6+</i></p>
+  <p></i><b> 📑 Resumo:</b> Jogo de perguntas e repostas criado a partir de API </i></p>
   </td> 
  </tr>
  
