@@ -186,6 +186,6 @@
   <p><i><b> :wrench: Ferramentas:</b> React, Redux, React Router, HTML5, CSS3, JavaScriptES6+</i></p>
   <p></i><b> 📑 Resumo:</b> Jogo de perguntas e repostas criado a partir de API </i></p>
   </td> 
- </tr>
+ </tr> 
  
 </table>
