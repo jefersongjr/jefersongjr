@@ -1,191 +1,88 @@
-## Hello World...! 👋
+<h1 align="center">Hello World 👋</h1>
 
-* 🌎 - Nascido e Criado no Rio de Janeiro
-* 🖥️ - Estudante de Desenvolvimento FullStack na Trybe
-* 📖 - Estudante de Sistemas De Informação na Faculdade Estácio de Sá
-* 🏃 - Extremamente apaixonado por corridas e rua.
+###
 
+<h4 align="center">Meu nome é Jeferson...Sou desenvolvedor Full Stack 🖥️ <br>Apaixonado por tecnologia , novos desafios e por aprender coisas novas.</h4>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/jefersongjr/)
-[<img src='https://img.icons8.com/ios-filled/344/instagram-new--v1.png' alt='instagram' height='30'>](https://www.instagram.com/jeferson_gjr/)
+###
 
+<h2 align="center">Contatos 📱:</h2>
 
-## Sobre mim: 
- Tenho 31 anos e recentemente estou passando por uma transição de carreira .
- Sempre gostei muito de tecnologia e tive o meu primeiro contato com a programação no período que fazia faculdade de licenciatura de Matemática, o que aumentou ainda mais minha paixão pela área tecnólogica , por isso resolvi mudar para o curso de Sistemas de Informação e ingressei na Trybe para conquistar o conhecimento necessário para embarcar em uma  carreira de tecnologia. <br>
- 
+###
 
-## Tech Stack :computer:
+<div align="center">
+  <a href="https://www.linkedin.com/in/jefersongjr/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/jeferson_gjr/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  <a href="jeferson_gjr@hotmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo"  />
+  </a>
+</div>
 
-<br>
-<table>
-<tbody>
- <tr>
-<td align="center" width="20%">
-<p><b><center>HTML 5</center></b></p> 
-<img height=60px src="https://img.icons8.com/color/344/html-5--v1.png"> 
-</td>
-  
-<td align="center" width="20%">
-<p><b><center>CSS</center></b></p> 
-<img height=60px src="https://img.icons8.com/color/344/css3.png"> 
-</td>
+###
 
-  <td align="center" width="20%">
-<p><b><center>JavaScript</center></b></p> 
-<img height=60px src="https://img.icons8.com/color/344/javascript.png"> 
-</td>
-  
-  <td align="center" width="20%">
-<p><b><center>Bash</center></b></p>
-<img height=65px src="https://img.icons8.com/bubbles/2x/console.png">
-</td>
-  
-   <td align="center" width="20%">
-<p><b><center>Jest</center></b></p> 
-<img height=65px src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/344/external-jest-can-collect-code-coverage-information-from-entire-projects-logo-color-tal-revivo.png"> 
-</td>
-<td align="center" width="20%">
-<p><b><center>Testing Library</center></b></p> 
-<img height=60px src="https://testing-library.com/img/octopus-128x128.png"> 
-</td>
+<br clear="both">
 
-</tr>
- 
-<tr>
-<td align="center" width="20%">
-<p><b><center>Git</center></b></p> 
-<img height=65px src="https://img.icons8.com/ios-glyphs/2x/github-2.png"> 
-</td>
- 
-<td align="center" width="20%">
-<p><b><center>ReactJS</center></b></p> 
-<img height=60px src="https://img.icons8.com/ultraviolet/2x/react.png"> 
-</td>
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=jefersongjr.jefersongjr&left_text=Visitantes"  />
+</div>
 
-<td align="center" width="20%">
-<p><b><center>TaillWindCss</center></b></p> 
-<img height=65px src="https://img.icons8.com/color/344/tailwindcss.png"> 
-</td>
-  
-<td align="center" width="20%">
-<p><b><center>Redux</center></b></p> 
-<img height=65px src="https://img.icons8.com/color/512/redux.png"> 
-</td>
- 
- <td align="center" width="20%">
-<p><b><center>Docker</center></b></p> 
-<img height=65px src="https://img.icons8.com/fluency/512/docker.png"> 
-</td>
- 
-  
-<td align="center" width="20%">
-<p><b><center>Chai</center></b></p> 
-<img height=60px src="https://camo.githubusercontent.com/7ecbd4531436e4f20c1dba52a4fd4ac367cfcc20a2f62cfe7a10f32da306afc6/687474703a2f2f636861696a732e636f6d2f696d672f636861692d6c6f676f2e706e67"> 
-</td>
-</tr>
- 
-<tr>
-<td align="center" width="20%">
-<p><b><center>Express.Js</center></b></p> 
-<img height=65px src="https://www.pngfind.com/pngs/m/136-1363736_express-js-icon-png-transparent-png.png"> 
-</td>
- 
-<td align="center" width="20%">
-<p><b><center>Node.Js</center></b></p> 
-<img height=60px src="https://img.icons8.com/fluency/512/node-js.png"> 
-</td>
+###
 
-<td align="center" width="20%">
-<p><b><center>NPM</center></b></p> 
-<img height=65px src="https://img.icons8.com/color/512/npm.png"> 
-</td>
-  
-<td align="center" width="20%">
-<p><b><center>Sequelize</center></b></p> 
-<img height=65px src="https://cdn.icon-icons.com/icons2/2415/PNG/512/sequelize_original_logo_icon_146348.png"> 
-</td>
- 
- <td align="center" width="20%">
-<p><b><center>TypeScript</center></b></p> 
-<img height=70px src="https://img.icons8.com/fluency/512/typescript.png"> 
-</td>
- 
- <td align="center" width="20%">
-<p><b><center>Mocha</center></b></p> 
-<img height=65px src="https://seeklogo.com/images/M/mocha-logo-66DA231220-seeklogo.com.png"> 
-</td>
-</tr>
- 
-</table>
- <br>
- 
- ## GitHub Statistics :bar_chart:
-![Jeferson Gomes GitHub stats](https://github-readme-stats.vercel.app/api?username=jefersongjr&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jefersongjr&show_icons=true&theme=tokyonight)](https://github.com/jefersongjr/github-readme-stats)
+<h2 align="center">Tecnologias:  :computer:</h2>
 
- ## Main Projects 💻
- 
- <table>
- <tr>
- <td align="center" width="40%">
-  <h2 align="center"><a href="https://github.com/jefersongjr/pixels-art">Pixels Art</a></h2>
-  <a href="https://pixels-art-eosin.vercel.app/"><img src='https://github.com/jefersongjr/pixels-art/blob/main/preview.png' /></a>
-  <br>
-  <hr>
-  <p><i><b> :wrench: Ferramentas:</b> HTML5, CSS3, JavaScriptES6+<i></p>
-  <p><i><b> 📑 Resumo:</b> Quadro digital para pintura de pixels.</i></p>
- </td> 
-   
- <td align="center" width="40%">
-   <h2 align="center"><a href="https://github.com/jefersongjr/color-guess">Color Guess</a></h2>
-  <a href="https://color-guess-zeta.vercel.app/"><img src='https://github.com/jefersongjr/color-guess/blob/main/preview.png' /></a>
-  <br>
-  <hr>
-  <p><i><b> :wrench: Ferramentas:</b> HTML5, CSS3, JavaScriptES6+</i></p>
-  <p><i><b> 📑 Resumo:</b> Jogo de advinhar a cor correta.</i></p>
-  </td>
- </tr>
- 
-  <tr>
- <td align="center" width="40%">
-  <h2 align="center"><a href="https://github.com/jefersongjr/todo-list">ToDo List</a></h2>
-  <a href="https://todo-list-azure-kappa.vercel.app/"><img src='https://github.com/jefersongjr/todo-list/blob/main/previa.png' /></a>
-  <br>
-  <hr>
-  <p><i><b> :wrench: Ferramentas:</b> HTML5, CSS3, JavaScriptES6+</i></p>
-  <p></i><b> 📑 Resumo:</b> Lista de tarefas simples.</i></p>
- </td>   
-  <td align="center" width="40%">
-   <h2 align="center"><a href="https://github.com/jefersongjr/trybewarts">TrybeWarts :mage: </a></h2>
-  <a href="https://trybewarts-indol.vercel.app/">
-   <img height="238px" src='https://github.com/jefersongjr/trybewarts/blob/main/images/previa.png' /></a>
-  <br>
-  <hr>
-  <p><i><b> :wrench: Ferramentas:</b> HTML5, CSS3, JavaScriptES6+</i></p>
-  <p></i><b> 📑 Resumo:</b> Formulário de avaliação para curso de programação </i></p>
-  </td> 
- </tr>
- 
- <tr>
- <td align="center" width="40%">
-   <h2 align="center"><a href="https://github.com/jefersongjr/solar-system">Solar System</a></h2>
-  <a href="https://solar-system-ruby.vercel.app/">
-   <img height="238px" src='https://github.com/jefersongjr/solar-system/blob/main/public/previa.png' /></a>
-   <br>
-  <hr>
-  <p><i><b> :wrench: Ferramentas:</b> React, HTML5, CSS3, JavaScriptES6+</i></p>
-  <p></i><b> 📑 Resumo:</b> Site com informações sobre missões espaciais e planetas do Sistema Solar </i></p>
-  </td> 
-   <td align="center" width="40%">
-   <h2 align="center"><a href="https://github.com/jefersongjr/trivia-game">Trivia Game</a></h2>
-  <a href="https://trivia-game-xi.vercel.app/">
-   <img height="238px" src='https://github.com/jefersongjr/trivia-game/blob/main/public/previa.png' /></a>
-  <br>
-  <hr>
-  <p><i><b> :wrench: Ferramentas:</b> React, Redux, React Router, HTML5, CSS3, JavaScriptES6+</i></p>
-  <p></i><b> 📑 Resumo:</b> Jogo de perguntas e repostas criado a partir de API </i></p>
-  </td> 
- </tr> 
- 
-</table>
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" width="52" alt="bash logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" width="52" alt="jest logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" width="52" alt="docker logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" width="52" alt="redux logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" width="52" alt="materialui logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="52" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" height="40" width="52" alt="mocha logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" width="52" alt="mongodb logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="52" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" height="40" width="52" alt="sequelize logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" width="52" alt="express logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" width="52" alt="bootstrap logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" height="40" width="52" alt="heroku logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" width="52" alt="linux logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="52" alt="vscode logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" width="52" alt="jupyter logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" width="52" alt="trello logo"  />
+</div>
+
+###
+
+<h2 align="center">Estatísticas do Github:  :bar_chart:</h2>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=jefersongjr" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=jefersongjr" height="150" alt="languages graph"  />
+</div>
+
+###
