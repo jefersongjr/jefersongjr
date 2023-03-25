@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="center">Meu nome é Jeferson...Sou desenvolvedor Full Stack 🖥️ <br>Apaixonado por tecnologia , novos desafios e por aprender coisas novas.</h4>
+<h4 align="center">Meu nome é Jeferson...Sou desenvolvedor Full Stack 🖥️ <br>Apaixonado por tecnologia, novos desafios e por aprender coisas novas.</h4>
 
 ###
 
